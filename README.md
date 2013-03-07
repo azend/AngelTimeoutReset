@@ -15,8 +15,8 @@ Download & Install
 ------------------
 
 To install the extension:
-1.	Download the extension CRX file from this repo [Download](https://github.com/azend/AngelTimeoutReset/blob/master/AngelTimeoutReset.crx?raw=true)
-2.	Open Chrome's options pull down by clicking on the wrench or three horizontal bars icon
-3.	Select Tools > Extensions
-4.	Drag the downloaded CRX file into your list of extensions
-5.	Review the permissions and then proceed by pressing Install
+1.	Download the extension CRX file from this repo [Download](https://github.com/azend/AngelTimeoutReset/blob/master/AngelTimeoutReset.crx?raw=true)&nbsp;
+2.	Open Chrome's options pull down by clicking on the wrench or three horizontal bars icon&nbsp;
+3.	Select Tools > Extensions&nbsp;
+4.	Drag the downloaded CRX file into your list of extensions&nbsp;
+5.	Review the permissions and then proceed by pressing Install&nbsp;
