@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "ANGEL Timeout Reset",
+  "description": "This extension keeps your session on ANGEL LMS alive.",
+  "version": "1.0",
+
+  "permissions": [
+    "https://angel.conestogac.on.ca/"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://angel.conestogac.on.ca/*"],
+      "js": ["reset.js"]
+    }
+ ]
+}
